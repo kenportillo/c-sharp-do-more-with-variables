@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Do-more-with-strings/bin/Debug/netcoreapp3.1/Do-more-with-strings
+/Users/Hi/Development/C#/Do-more-with-strings/bin/Debug/netcoreapp3.1/Do-more-with-strings.deps.json
+/Users/Hi/Development/C#/Do-more-with-strings/bin/Debug/netcoreapp3.1/Do-more-with-strings.runtimeconfig.json
+/Users/Hi/Development/C#/Do-more-with-strings/bin/Debug/netcoreapp3.1/Do-more-with-strings.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Do-more-with-strings/bin/Debug/netcoreapp3.1/Do-more-with-strings.dll
+/Users/Hi/Development/C#/Do-more-with-strings/bin/Debug/netcoreapp3.1/Do-more-with-strings.pdb
+/Users/Hi/Development/C#/Do-more-with-strings/obj/Debug/netcoreapp3.1/Do-more-with-strings.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Do-more-with-strings/obj/Debug/netcoreapp3.1/Do-more-with-strings.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Do-more-with-strings/obj/Debug/netcoreapp3.1/Do-more-with-strings.AssemblyInfo.cs
+/Users/Hi/Development/C#/Do-more-with-strings/obj/Debug/netcoreapp3.1/Do-more-with-strings.dll
+/Users/Hi/Development/C#/Do-more-with-strings/obj/Debug/netcoreapp3.1/Do-more-with-strings.pdb
